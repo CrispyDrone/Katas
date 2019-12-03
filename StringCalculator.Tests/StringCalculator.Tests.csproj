@@ -54,6 +54,7 @@
     <Compile Include="StringCalculator20191130Tests.cs" />
     <Compile Include="StringCalculator20191201Tests.cs" />
     <Compile Include="StringCalculator20191202Tests.cs" />
+    <Compile Include="StringCalculator20191203Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
